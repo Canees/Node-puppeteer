@@ -1,17 +1,15 @@
 {
-  "name": "node-puppeteer",
+  "name": "putter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
     "dev": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^5.2.1",
-    "request-promise": "^4.2.6"
+    "puppeteer": "^5.2.1"
   }
 }
